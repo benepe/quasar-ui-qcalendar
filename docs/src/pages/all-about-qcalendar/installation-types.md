@@ -82,7 +82,7 @@ In `quasar.conf.js` update the following:
 // Note: using ~ tells Quasar the file resides in node_modules
 css: [
   'app.sass',
-  '~quasar-ui-qcalendar/src/css/calendar-day.sass'
+  '~@quasar/quasar-ui-qcalendar/src/css/calendar-day.sass'
 ],
 
 build: {
